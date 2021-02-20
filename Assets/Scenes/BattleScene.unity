@@ -112,6 +112,18 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!65 &390282799 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 6564742792548858394, guid: 181c7e43bdca2ed42a26b1cae49994c4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6564742792548858388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &1065167480 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 259825275, guid: 181c7e43bdca2ed42a26b1cae49994c4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6564742792548858388}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1120707937
 GameObject:
   m_ObjectHideFlags: 0
@@ -260,6 +272,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1794228627 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 295105130, guid: 181c7e43bdca2ed42a26b1cae49994c4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6564742792548858388}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6564742792548858388
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -327,6 +345,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6564742792548858391, guid: 181c7e43bdca2ed42a26b1cae49994c4,
+        type: 3}
+      propertyPath: CardBack
+      value: 
+      objectReference: {fileID: 1065167480}
+    - target: {fileID: 6564742792548858391, guid: 181c7e43bdca2ed42a26b1cae49994c4,
+        type: 3}
+      propertyPath: targetFacePoint
+      value: 
+      objectReference: {fileID: 1794228627}
+    - target: {fileID: 6564742792548858391, guid: 181c7e43bdca2ed42a26b1cae49994c4,
+        type: 3}
+      propertyPath: col
+      value: 
+      objectReference: {fileID: 390282799}
     - target: {fileID: 6564742793200506158, guid: 181c7e43bdca2ed42a26b1cae49994c4,
         type: 3}
       propertyPath: m_Camera
