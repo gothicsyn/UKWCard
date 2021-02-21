@@ -201,17 +201,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1816390778298456460, guid: bf2ddb6ee53bdb344b80e86c24ed2d99,
-        type: 3}
-      propertyPath: cardAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 5d79b99852928d9489099a0c074efe92,
-        type: 2}
-    - target: {fileID: 7457891481113199319, guid: bf2ddb6ee53bdb344b80e86c24ed2d99,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7457891481462175490, guid: bf2ddb6ee53bdb344b80e86c24ed2d99,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -220,7 +209,7 @@ PrefabInstance:
     - target: {fileID: 7457891481462175490, guid: bf2ddb6ee53bdb344b80e86c24ed2d99,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -1.374
       objectReference: {fileID: 0}
     - target: {fileID: 7457891481462175490, guid: bf2ddb6ee53bdb344b80e86c24ed2d99,
         type: 3}
@@ -271,11 +260,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MoveCard
-      objectReference: {fileID: 0}
-    - target: {fileID: 7457891481462175491, guid: bf2ddb6ee53bdb344b80e86c24ed2d99,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf2ddb6ee53bdb344b80e86c24ed2d99, type: 3}
@@ -345,16 +329,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WrestlerCard
-      objectReference: {fileID: 0}
-    - target: {fileID: 1604717054995596527, guid: a09a00c44e608d44c9f7d56c8a20c6a4,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7498428143988288096, guid: a09a00c44e608d44c9f7d56c8a20c6a4,
-        type: 3}
-      propertyPath: cardAsset
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a09a00c44e608d44c9f7d56c8a20c6a4, type: 3}
