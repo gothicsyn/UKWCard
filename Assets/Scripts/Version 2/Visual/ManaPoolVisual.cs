@@ -81,5 +81,4 @@ public class ManaPoolVisual : MonoBehaviour {
             AvailableCrystals = TestFullCrystals;
         }
     }
-	
 }

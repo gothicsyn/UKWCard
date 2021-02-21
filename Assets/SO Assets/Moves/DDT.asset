@@ -16,7 +16,7 @@ MonoBehaviour:
   Description: Landing your opponent on their head, it's going to help you on your
     way to the 3 count.
   CardImage: {fileID: 21300000, guid: eaa8e77acf1ebe34484b42d387b15064, type: 3}
-  ManaCost: 0
+  ManaCost: 10
   MaxHealth: 0
   Attack: 0
   AttacksForOneTurn: 1
