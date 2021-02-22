@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 917561878a8602640ab159ede231f37f, type: 3}
-  m_Name: Jonathan Sedgewick
+  m_Name: LeonieRose
   m_EditorClassIdentifier: 
-  Class: 0
-  ClassName: UKW Champion
-  MaxHealth: 90
-  HeroPowerName: Super Kick
-  AvatarImage: {fileID: 21300000, guid: d2d19aecbf759ae4ab9ca34ee0e17871, type: 3}
-  HeroPowerIconImage: {fileID: 21300000, guid: 13910935878112e48b8eb1ffc6a63890, type: 3}
+  Class: 2
+  ClassName: Academy Champion
+  MaxHealth: 55
+  HeroPowerName: LionLock
+  AvatarImage: {fileID: 21300000, guid: 3785852359063a241861f1bbadd84da8, type: 3}
+  HeroPowerIconImage: {fileID: 21300000, guid: 13d1a5eba2a539842ba53ed12391c0a8, type: 3}
   AvatarBGImage: {fileID: 0}
   HeroPowerBGImage: {fileID: 0}
   AvatarBGTint:
@@ -28,7 +28,7 @@ MonoBehaviour:
     rgba: 4278255615
   ClassCardTint:
     serializedVersion: 2
-    rgba: 4278190335
+    rgba: 4294252196
   ClassRibbonsTint:
     serializedVersion: 2
-    rgba: 3355443455
+    rgba: 3488945828

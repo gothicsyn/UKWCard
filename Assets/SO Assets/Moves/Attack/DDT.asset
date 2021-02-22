@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41e206fc57f453a42b932de9e94caabf, type: 3}
   m_Name: DDT
   m_EditorClassIdentifier: 
-  characterAsset: {fileID: 11400000, guid: 1e5cca98790b81549a49a038da6858a7, type: 2}
+  characterAsset: {fileID: 0}
   Description: Landing your opponent on their head, it's going to help you on your
     way to the 3 count.
-  CardImage: {fileID: 21300000, guid: eaa8e77acf1ebe34484b42d387b15064, type: 3}
+  CardImage: {fileID: 21300000, guid: 171c3a7738f6f1d4382afa563de85976, type: 3}
   ManaCost: 10
   MaxHealth: 0
   Attack: 0

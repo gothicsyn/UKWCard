@@ -135,7 +135,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2415361475753978893}
   - component: {fileID: 2415361475570693868}
-  - component: {fileID: 4017228320580337315}
+  - component: {fileID: 2348270142810646014}
   m_Layer: 0
   m_Name: PlayerPortrait
   m_TagString: Untagged
@@ -171,7 +171,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.7, y: 2.7, z: 0.01}
   m_Center: {x: 0, y: 0.009, z: 0}
---- !u!114 &4017228320580337315
+--- !u!114 &2348270142810646014
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -180,14 +180,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 2415361475753978892}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 78b814239ded4b7478555deea6adbc4b, type: 3}
+  m_Script: {fileID: 11500000, guid: 0fe86204a6bd6be46beee31d231dfbd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TurnThisOffWhenPreviewing: {fileID: 0}
-  TargetPosition: {x: 2, y: 0, z: 0}
-  TargetScale: 1.5
-  previewGameObject: {fileID: 0}
-  ActivateInAwake: 1
+  charAsset: {fileID: 11400000, guid: 1e5cca98790b81549a49a038da6858a7, type: 2}
+  HealthText: {fileID: 4017228321361329370}
+  HeroPowerIconImage: {fileID: 0}
+  HeroPowerBackgroundImage: {fileID: 0}
+  PortraitImage: {fileID: 2415361477338330942}
+  PortraitBackgroundImage: {fileID: 7749942527903377579}
 --- !u!1 &2415361476421481997
 GameObject:
   m_ObjectHideFlags: 0
@@ -423,7 +424,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3785852359063a241861f1bbadd84da8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8170c525ab473e440baa1997459869a6, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -509,7 +510,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 150
+  m_Text: 95
 --- !u!114 &4017228321361329371
 MonoBehaviour:
   m_ObjectHideFlags: 0

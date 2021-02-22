@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 917561878a8602640ab159ede231f37f, type: 3}
-  m_Name: Jonathan Sedgewick
+  m_Name: MustafaKhan
   m_EditorClassIdentifier: 
   Class: 0
-  ClassName: UKW Champion
-  MaxHealth: 90
-  HeroPowerName: Super Kick
-  AvatarImage: {fileID: 21300000, guid: d2d19aecbf759ae4ab9ca34ee0e17871, type: 3}
-  HeroPowerIconImage: {fileID: 21300000, guid: 13910935878112e48b8eb1ffc6a63890, type: 3}
+  ClassName: Persian Champion
+  MaxHealth: 150
+  HeroPowerName: Unsure
+  AvatarImage: {fileID: 21300000, guid: 8170c525ab473e440baa1997459869a6, type: 3}
+  HeroPowerIconImage: {fileID: 21300000, guid: a1a554ad661002a4e9c095a41a2561e1, type: 3}
   AvatarBGImage: {fileID: 0}
   HeroPowerBGImage: {fileID: 0}
   AvatarBGTint:

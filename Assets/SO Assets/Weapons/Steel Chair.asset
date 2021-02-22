@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41e206fc57f453a42b932de9e94caabf, type: 3}
   m_Name: Steel Chair
   m_EditorClassIdentifier: 
-  characterAsset: {fileID: 0}
+  characterAsset: {fileID: 11400000, guid: e660c12161540494ab46f14c004e7ec1, type: 2}
   Description: The effects of steel on flesh just aren't pretty.
   CardImage: {fileID: 21300000, guid: b0aa0d93185826f47b1926d7ef400fe8, type: 3}
   ManaCost: 20
