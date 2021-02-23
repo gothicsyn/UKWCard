@@ -364,7 +364,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 383601829}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.39, y: 0, z: 0}
+  m_LocalPosition: {x: -8.21, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 906472610}
@@ -982,7 +982,7 @@ PrefabInstance:
     - target: {fileID: 3631235126802536336, guid: 48f1fb1e59589d44dbf862e6f99a3c41,
         type: 3}
       propertyPath: TestTotalCrystalsThisTurn
-      value: 7
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3631235126802536342, guid: 48f1fb1e59589d44dbf862e6f99a3c41,
         type: 3}
@@ -992,12 +992,12 @@ PrefabInstance:
     - target: {fileID: 3631235126802536343, guid: 48f1fb1e59589d44dbf862e6f99a3c41,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3631235126802536343, guid: 48f1fb1e59589d44dbf862e6f99a3c41,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.649621
+      value: -7
       objectReference: {fileID: 0}
     - target: {fileID: 3631235126802536343, guid: 48f1fb1e59589d44dbf862e6f99a3c41,
         type: 3}
@@ -1406,7 +1406,7 @@ PrefabInstance:
     - target: {fileID: 3631235126802536343, guid: 48f1fb1e59589d44dbf862e6f99a3c41,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.3
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3631235126802536343, guid: 48f1fb1e59589d44dbf862e6f99a3c41,
         type: 3}
