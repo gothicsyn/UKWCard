@@ -1,12 +1,12 @@
 
-=== Sun Sep 20 16:28:36 2020
+=== Tue Feb 23 21:05:06 2021
 
 Packages were changed.
-Update Mode: mergeDefaultDependencies
+Update Mode: resetToDefaultDependencies
 
 The following packages were added:
   com.unity.analytics@3.2.3
-  com.unity.purchasing@2.0.3
+  com.unity.purchasing@2.2.1
   com.unity.ads@2.0.8
   com.unity.textmeshpro@1.4.1
   com.unity.package-manager-ui@2.0.13
@@ -41,19 +41,3 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
-
-=== Wed Dec  9 22:12:53 2020
-
-Packages were changed.
-Update Mode: updateDependencies
-
-The following packages were updated:
-  com.unity.purchasing from version 2.0.3 to 2.1.1
-
-=== Sat Feb 20 13:00:29 2021
-
-Packages were changed.
-Update Mode: updateDependencies
-
-The following packages were updated:
-  com.unity.purchasing from version 2.1.1 to 2.2.1
